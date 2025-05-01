@@ -1,9 +1,9 @@
 <h1 align="center">Profile Card | Iball</h1>
   
-<img src="https://cardivo.vercel.app/api?name=iball30&description=Hi,%20Welcome%20To%20My%20Profile%20❤&backgroundColor=%23FFFFFF&fontColor=%23019393&github=iball30&image=https://files.catbox.moe/uba7h6.png" align="center">
+<img src="https://cardivo.vercel.app/api?name=iball30&description=Hi,%20Welcome%20To%20My%20Profile%20❤&backgroundColor=%23FFFFFF&fontColor=%23019393&github=iball30&image=https://files.catbox.moe/x6dbhm.png" align="center">
 
 <p align="center">
-  <a href="https://github.com/iball30"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+16+Years+old.;.+.+." alt="Nevt">
+  <a href="https://github.com/iball30"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+17+Years+old.;.+.+." alt="Nevt">
   </p>
 
 <p align="center">
