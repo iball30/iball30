@@ -17,7 +17,7 @@
 <p align="center">
   <!--a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/--> 
   <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="mailto:andhikagg@proton.me"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  <a href="mailto:namanyaiqbal900@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
   <a href="https://github.com/iball30"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /> 
 </p>
 
